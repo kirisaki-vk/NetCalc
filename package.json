@@ -4,7 +4,8 @@
   "description": "A simple IP calculator built on electron for my school needs",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
   },
   "author": "Kirisaki_VK",
   "license": "ISC",
